@@ -109,9 +109,19 @@
 |                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warm-up         | PROJECT 3      | PROJECT 3           |    PROJECT 3     |        |       | 
-| Morning code    |     |                                                                                                                                              |       | |    | 
-| Morning video   |                                                                     |                                                                                                                             |      |  |     | 
+| Morning code    |     |                                                                                                                                              |       |<a href="https://github.com/learn-co-students/dc_ds_06_03_19/blob/master/module_5/week-1/day-1-knn/knn-classification.ipynb">KNN</a> | <a href="https://github.com/learn-co-students/dc_ds_06_03_19/blob/master/module_5/week-1/day-2-decision-trees/decision-trees-enkeboll.ipynb">Decision Trees</a>   | 
+| Morning video   |                                                                     |                                                                                                                             |      | <a href="https://www.youtube.com/watch?v=BsyNzdWUGWs">KNN</a> |   <a href="https://www.youtube.com/watch?v=_QmWozVmQCY">Decision Trees</a>  | 
 | Afternoon code  |                                                                                                                                                                           |                                                                                                                                 |       |      |      | 
 | Afternoon video |                                                                                                                                                                           |                                                                                                                                                 |       |      |    | 
 
+
+### Week X
+
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warm-up         |       |            |         |        |       | 
+| Morning code    |   <a href="https://github.com/learn-co-students/dc_ds_06_03_19/blob/master/module_5/week-2/day-1-random-forest/random-forest.ipynb">Random Forests</a>  |     |       | |  | 
+| Morning video   |  <a href="https://www.youtube.com/watch?v=PogVA1Zkt7M">Random Forests</a>   |    |      |  |     | 
+| Afternoon code  |                                                                                                                                                                           |                                                                                                                                 |       |      |      | 
+| Afternoon video |                                                                                                                                                                           |                                                                                                                                                 |       |      |    | 
 
